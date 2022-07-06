@@ -1,0 +1,14 @@
+C:\Dell_Karthik\FSD Training\Projects\Teacher_Records\Teacher_Records\Teacher_Records\obj\Debug\netcoreapp3.1\Teacher_Records.csproj.AssemblyReference.cache
+C:\Dell_Karthik\FSD Training\Projects\Teacher_Records\Teacher_Records\Teacher_Records\obj\Debug\netcoreapp3.1\Teacher_Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dell_Karthik\FSD Training\Projects\Teacher_Records\Teacher_Records\Teacher_Records\obj\Debug\netcoreapp3.1\Teacher_Records.AssemblyInfoInputs.cache
+C:\Dell_Karthik\FSD Training\Projects\Teacher_Records\Teacher_Records\Teacher_Records\obj\Debug\netcoreapp3.1\Teacher_Records.AssemblyInfo.cs
+C:\Dell_Karthik\FSD Training\Projects\Teacher_Records\Teacher_Records\Teacher_Records\obj\Debug\netcoreapp3.1\Teacher_Records.csproj.CoreCompileInputs.cache
+C:\Dell_Karthik\FSD Training\Projects\Teacher_Records\Teacher_Records\Teacher_Records\bin\Debug\netcoreapp3.1\Teacher_Records.exe
+C:\Dell_Karthik\FSD Training\Projects\Teacher_Records\Teacher_Records\Teacher_Records\bin\Debug\netcoreapp3.1\Teacher_Records.deps.json
+C:\Dell_Karthik\FSD Training\Projects\Teacher_Records\Teacher_Records\Teacher_Records\bin\Debug\netcoreapp3.1\Teacher_Records.runtimeconfig.json
+C:\Dell_Karthik\FSD Training\Projects\Teacher_Records\Teacher_Records\Teacher_Records\bin\Debug\netcoreapp3.1\Teacher_Records.runtimeconfig.dev.json
+C:\Dell_Karthik\FSD Training\Projects\Teacher_Records\Teacher_Records\Teacher_Records\bin\Debug\netcoreapp3.1\Teacher_Records.dll
+C:\Dell_Karthik\FSD Training\Projects\Teacher_Records\Teacher_Records\Teacher_Records\bin\Debug\netcoreapp3.1\Teacher_Records.pdb
+C:\Dell_Karthik\FSD Training\Projects\Teacher_Records\Teacher_Records\Teacher_Records\obj\Debug\netcoreapp3.1\Teacher_Records.dll
+C:\Dell_Karthik\FSD Training\Projects\Teacher_Records\Teacher_Records\Teacher_Records\obj\Debug\netcoreapp3.1\Teacher_Records.pdb
+C:\Dell_Karthik\FSD Training\Projects\Teacher_Records\Teacher_Records\Teacher_Records\obj\Debug\netcoreapp3.1\Teacher_Records.genruntimeconfig.cache

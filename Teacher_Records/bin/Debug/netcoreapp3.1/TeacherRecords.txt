@@ -1,0 +1,6 @@
+ID: TE01; Name: Raghuram; Class:10; Section:A
+ID: TE04; Name: Sangeetha; Class:09; Section:A
+ID: TE06; Name: Anuradha; Class:10; Section:B
+ID: TE02; Name: Shyam; Class:08; Section:A
+ID: TE03; Name: Lakshman; Class:09; Section:B
+ID: TE05; Name: Sanjana; Class:08; Section:B

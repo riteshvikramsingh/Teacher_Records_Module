@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ritesh_singh1\\Downloads\\Project Uploads\\TeacherRecords-main\\Teacher_Records\\Teacher_Records.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ritesh_singh1\\Downloads\\Project Uploads\\TeacherRecords-main\\Teacher_Records\\Teacher_Records.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ritesh_singh1\\Downloads\\Project Uploads\\TeacherRecords-main\\Teacher_Records\\Teacher_Records.csproj",
+        "projectName": "Teacher_Records",
+        "projectPath": "C:\\Users\\ritesh_singh1\\Downloads\\Project Uploads\\TeacherRecords-main\\Teacher_Records\\Teacher_Records.csproj",
+        "packagesPath": "C:\\Users\\ritesh_singh1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ritesh_singh1\\Downloads\\Project Uploads\\TeacherRecords-main\\Teacher_Records\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ritesh_singh1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://dcsartifacts.dell.com/artifactory/api/nuget/nuget": {},
+          "http://dcsteamcity.dell.com/guestAuth/app/nuget/v1/FeedService.svc": {},
+          "http://dolenvbdrop1.oldev.preol.dell.com/Nuget/Release1.7/Nuget/": {},
+          "https://www.nuget.org/packages/coverlet.collectort": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
